@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shun4211&theme=gruvbox"/>
+  <img src="https://github-readme-stats-seven-livid-51.vercel.app/api?username=Shun4211&show_icons=true&theme=gruvbox"/>
 </div>
 
 ---
