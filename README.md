@@ -53,7 +53,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats-clone-opal.vercel.app/graph?username=Shun4211&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats-activity-graph.vercel.app/graph?username=Shun4211&theme=tokyo-night&hide_border=true" />
 </div>
 
 <!--
