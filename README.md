@@ -48,14 +48,6 @@
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats-activity-graph.vercel.app/graph?username=Shun4211&theme=tokyo-night&hide_border=true" />
-</div>
-
 <!--
 **Shun4211/Shun4211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
