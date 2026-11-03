@@ -2,7 +2,8 @@
   
 # 👋 Welcome to Shun's GitHub Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Creative+Coder;Always+Learning+New+Things" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Creative+Coder;Always+Learning+New+Things;Yakiniku+Teishoku;Sekai +he+Youwo" alt="Typing SVG" />
 
 </div>
 
@@ -11,9 +12,9 @@
 ## 🚀 About Me
 
 - 🎓 学生 / Student
-- 💻 プログラミングに興味があります
-- 🎮 Reactを使った創作活動を楽しんでいます
-- 🌱 現在学習中のスキルを常に伸ばしています
+- 💻 チームでアプリ開発中...
+- 🎮 日々精進 !
+- 🌱 AtCoder初心者
 
 ---
 
@@ -48,6 +49,15 @@
 
 </div>
 
+---
+
+### 🍎 Snake Chan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
-**Shun4211/Shun4211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
