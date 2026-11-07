@@ -3,7 +3,7 @@
 # 👋 Welcome to Shun's GitHub Profile!
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Creative+Coder;Always+Learning+New+Things;Yakiniku+Teishoku;Sekai+he+Youwo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Creative+Coder;Always+Learning+New+Things;Yakiniku+Teishoku;Sekai+he+Youwo" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-clone-opal.vercel.app/api?username=Shun4211&show_icons=true&theme=gruvbox"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-opal.vercel.app/api?username=Shun4211&show_icons=true&theme=gruvbox">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-opal.vercel.app/api?username=Shun4211&show_icons=true&theme=gruvbox_light">
+    <img alt="Shun4211's GitHub Stats" src="https://github-readme-stats-clone-opal.vercel.app/api?username=Shun4211&show_icons=true&theme=gruvbox">
+  </picture>
 </div>
 
 ---
@@ -52,11 +56,14 @@
 ---
 
 ## 🍎 Snake Chan
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake.svg">
-</picture>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating Shun4211's contribution graph" src="https://raw.githubusercontent.com/Shun4211/Shun4211/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
